@@ -5,5 +5,4 @@ A simple web app that takes a city name from user inout using command line and o
 Python 3, requests, python-dotenv, OpenWeather API key 
 
 ## Run the app 
-python get_weather.py in CLI 
-or run the app in VSCode
+python3 get_weather.py 
